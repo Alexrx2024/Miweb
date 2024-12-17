@@ -1,4 +1,4 @@
-nombre = "ALexTu marido rico y si que te duela"
+nombre = "ALexTu marido "
 apellido = "Cueva"
 
 saludo = "Hola " + nombre + " " + apellido + "¿Como estas?"
